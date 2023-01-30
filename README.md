@@ -10,5 +10,4 @@
   c. Define any terms that might be too technical before (or right after) you use/mention them
   d. Try to tell a story
   
-## Task 4: Film a 5 to 10-minute video presentation outlining your findings from the previous task. Upload it below once done. Remember to not be too technical!
-### Link: https://kansas-my.sharepoint.com/:v:/g/personal/r247r798_home_ku_edu/ERlaVirnL_VNgQAnhRgyuQsBz2VDSrwsiDa43YAu8qipyw?e=YCyOFB
+## Task 4: Film a 5 to 10-minute video presentation outlining your findings from the previous task. Upload it below once done. Remember to not be too technical! (video was too large to upload)
