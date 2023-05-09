@@ -1,4 +1,4 @@
-# Standard Bank Forage DataScience
+# Standard Bank Forage Data Science
 
 ## Task 1: The beginning of any data science project involves understanding the business and the data. Business understanding is focused on setting the business objectives, project assessment, defining the success criteria and project planning. Understanding the business is essential to any data science project. After this, the next phase is Data Understanding. To understand the data, we have to identify, collect, analyze and verify data quality from one or multiple data sources to accomplish the business goals. These tasks can be done in SQL. SQL is a crucial skill to have as a data scientist, as you will be required to work with structured data stored in relational databases. To complete this task, answer the multiple-choice quiz. This multiple choice consists of daily tasks data scientists complete using SQL. Start the quiz by clicking 'Click here to start the task' in section 5 below. Please note there are 5 multiple choice questions to complete in this task. Please be patient as each question loads.
 
